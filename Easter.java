@@ -1,4 +1,5 @@
-// Made by Munkhsoyombo Munkhbat, Period: 4 //
+// Munkhsoyombo Munkhbat, Period: 4, 09/04/2025
+// This program will calculate the date easter falls on given year.
 
 public class Easter{
     public static void main(String[] args) {
